@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MACHINE%20LEARNING%20PROJECTS/MLFlow/mlruns/203441077633991543/a70c911ac33f46ed96f61bc70351f057/artifacts
+end_time: 1716713920925
+entry_point_name: ''
+experiment_id: '203441077633991543'
+lifecycle_stage: active
+run_id: a70c911ac33f46ed96f61bc70351f057
+run_name: incongruous-hen-533
+run_uuid: a70c911ac33f46ed96f61bc70351f057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716713909323
+status: 3
+tags: []
+user_id: hp
